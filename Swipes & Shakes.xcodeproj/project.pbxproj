@@ -12,6 +12,7 @@
 		B25A827E1FA4B7C80094DC7D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B25A827C1FA4B7C80094DC7D /* Main.storyboard */; };
 		B25A82801FA4B7C80094DC7D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B25A827F1FA4B7C80094DC7D /* Assets.xcassets */; };
 		B25A82831FA4B7C80094DC7D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B25A82811FA4B7C80094DC7D /* LaunchScreen.storyboard */; };
+		B2EADDAF1FA539BD001FCAEA /* View.xib in Resources */ = {isa = PBXBuildFile; fileRef = B2EADDAE1FA539BD001FCAEA /* View.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B25A827F1FA4B7C80094DC7D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B25A82821FA4B7C80094DC7D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B25A82841FA4B7C80094DC7D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B2EADDAE1FA539BD001FCAEA /* View.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = View.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				B25A82781FA4B7C80094DC7D /* AppDelegate.swift */,
 				B25A827A1FA4B7C80094DC7D /* ViewController.swift */,
 				B25A827C1FA4B7C80094DC7D /* Main.storyboard */,
+				B2EADDAE1FA539BD001FCAEA /* View.xib */,
 				B25A827F1FA4B7C80094DC7D /* Assets.xcassets */,
 				B25A82811FA4B7C80094DC7D /* LaunchScreen.storyboard */,
 				B25A82841FA4B7C80094DC7D /* Info.plist */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2EADDAF1FA539BD001FCAEA /* View.xib in Resources */,
 				B25A82831FA4B7C80094DC7D /* LaunchScreen.storyboard in Resources */,
 				B25A82801FA4B7C80094DC7D /* Assets.xcassets in Resources */,
 				B25A827E1FA4B7C80094DC7D /* Main.storyboard in Resources */,
@@ -299,6 +303,7 @@
 				B25A82891FA4B7C80094DC7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
